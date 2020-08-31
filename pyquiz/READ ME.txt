@@ -1,0 +1,3 @@
+Hey!
+I'm so happy you downloaded pyquiz. PyQuiz is my first serious project in python :)
+With pyquiz you can easily make a quiz in python! Wanna know how? Open the text file named example.txt :D

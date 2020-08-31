@@ -1,0 +1,10 @@
+import pyquiz
+
+print('Hey! Welcome to my very own quiz! I made this quiz with pyquiz and its very easy to do!')
+
+question1 = input('What is my name? ')
+pyquiz.check(question1, 'Raoul')
+pyquiz.mid()
+question2 = input('How can you contact me? ')
+pyquiz.check(question2, 'Via my email adress! raoullercoaster@gmail.com')
+pyquiz.end()
